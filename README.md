@@ -7,3 +7,5 @@ Some other technologies included in this stack are:
 - Nuxt Icons: Icon support for Nuxt.
 - Nuxt Image: Image optimizations.
 - Nuxt Content: Better support for Markdown and YAML in Nuxt.
+- Supabase: BaaS for your application.
+- Several integrations and bridges between Nuxt and other technologies.
